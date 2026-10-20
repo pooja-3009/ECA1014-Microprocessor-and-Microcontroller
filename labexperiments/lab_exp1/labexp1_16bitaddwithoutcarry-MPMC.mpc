@@ -1,0 +1,36 @@
+8000
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Courier New;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\li195\f0\fs20 LHLD 2050h
+\par \cf1 XCHG
+\par LHLD 2052h
+\par DAD D
+\par SHLD 2054h
+\par \cf0 HLT
+\par 
+\par }
+<End Codes>
+20
+1| 2050| 34
+2| 2051| 12
+3| 2052| 22
+4| 2053| 11
+5| 2054| 56
+6| 2055| 23
+<End UserData>
+20
+1| 8000| 2A
+2| 8001| 50
+3| 8002| 20
+4| 8003| EB
+5| 8004| 2A
+6| 8005| 52
+7| 8006| 20
+8| 8007| 19
+9| 8008| 22
+10| 8009| 54
+11| 800A| 20
+12| 800B| 76
+<End HexData>
+
+<End Comment>
