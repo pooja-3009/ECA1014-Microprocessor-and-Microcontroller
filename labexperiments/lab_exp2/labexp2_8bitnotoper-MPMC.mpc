@@ -1,0 +1,26 @@
+8000
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Courier New;}}
+\viewkind4\uc1\pard\li195\f0\fs20 LDA 2050h
+\par CMA
+\par STA 2051h
+\par HLT
+\par 
+\par }
+<End Codes>
+20
+1| 2050| 0F
+2| 2051| F0
+<End UserData>
+20
+1| 8000| 3A
+2| 8001| 50
+3| 8002| 20
+4| 8003| 2F
+5| 8004| 32
+6| 8005| 51
+7| 8006| 20
+8| 8007| 76
+<End HexData>
+
+
+<End Comment>
